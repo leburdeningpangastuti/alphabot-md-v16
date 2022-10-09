@@ -5,7 +5,7 @@
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
-    "start": "pm2 start zeeone.js"
+    "start": "node zeeone.js"
    },
   "keywords": [
     "whatsapp",
